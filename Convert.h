@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
-// FileName:    Convert.h
+// FileName:    Convert.h modified
 // Description: Definition of class convert that converts a number into decimal from any base.
 //              Member functions are defined in convert.cpp
 // Author:      Smruti Tatavarthy (SUID-570229070)
